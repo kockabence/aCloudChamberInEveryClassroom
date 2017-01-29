@@ -6,4 +6,4 @@ categories:
 ---
 This is a demo post, to showcase image uploading.
 
-![Screenshot of template matching in action]({{site.url}}/assets/screenshot.png)
+![Screenshot of template matching in action]({{ site.github.url }}/assets/screenshot.png)
