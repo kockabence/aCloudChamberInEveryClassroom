@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: aCloudChamberInEveryClassroom
+title: Minden osztályterembe egy ködkamrát! - aCloudChamberInEveryClassroom
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This is a site dedicated to help teachers and students around the globe use a cloud 	chamber as an effective physics demonstration tool.
+  Ez az oldal arra szolgál, hogy tanárok és diákok munkáját egyaránt megkönnyítve írja le a ködkamra alkalmazását, mint hatékony bemutató eszközt - This is a site dedicated to help teachers and students around the globe use a cloud chamber as an effective physics demonstration tool.
 baseurl: "/aCloudChamberInEveryClassroom" # the subpath of your site, e.g. /blog
 url: "https://kockabence.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
